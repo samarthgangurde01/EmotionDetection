@@ -61,7 +61,13 @@ Every Emage in dateset is numbered as S0012_03054_0_1_0_2_1_01 where as
 ## Results
 ### MObile Net Accuracy
 ![image](https://user-images.githubusercontent.com/93859458/165929007-1f732111-a153-453f-bb21-d47469693d3f.png))
+we used 10 epochs (10 ittretion) on our model in starting it gave us accuracy of 0.57 which was not that good but after three ittretions it increased to more than 89% and in last epoch it gave us accuracy uptp 0.88 was preety good for tring actual prediction and deployment of the model
 
+## Deployment
+#### Images without running model and image after running the model
+![image](https://user-images.githubusercontent.com/93859458/165930864-e19552a8-6d15-4ecc-8b88-c4986d7f57d7.png)
+
+![image](https://user-images.githubusercontent.com/93859458/165931038-a3794a2d-9143-4c44-9ff9-57b44594fb9d.png)
 
 
 ## Feedback
