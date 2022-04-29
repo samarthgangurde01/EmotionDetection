@@ -80,7 +80,9 @@ we used 10 epochs (10 ittretion) on our model in starting it gave us accuracy of
 ## Feedback
 
 If you have any feedback, please reach out to us at
+
 Mail:- samarthgangurde01@gmail.com
+
 Linkedin:-https://www.linkedin.com/in/samarth-gangurde-b07875212/
 
 
